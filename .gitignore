@@ -2,6 +2,8 @@
 /.gradle/
 ### Gradle template
 .gradle
+.idea
+application-oauth.properties
 **/build/
 !src/**/build/
 
